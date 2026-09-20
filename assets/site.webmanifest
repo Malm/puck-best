@@ -1,0 +1,21 @@
+{
+  "name": "Puck was here",
+  "short_name": "Puck",
+  "description": "Puck was here — ett litet avtryck på internet.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#9fa596",
+  "theme_color": "#9fa596",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
