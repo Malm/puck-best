@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- broad traces left by old paint rollers -->
+    <path d="M-62 84 C94 61 246 108 391 82 S631 59 784 92" stroke="#e9e6d7" stroke-width="26" opacity=".08"/>
+    <path d="M-84 506 C73 482 236 532 403 502 S642 485 797 520" stroke="#f3efe0" stroke-width="41" opacity=".06"/>
+    <path d="M115 -34 C87 121 126 251 101 395 S67 640 112 764" stroke="#f2eee0" stroke-width="32" opacity=".05"/>
+    <path d="M608 -51 C573 108 622 240 598 384 S560 644 611 775" stroke="#535a51" stroke-width="27" opacity=".045"/>
+
+    <!-- hairline cracks in the paint -->
+    <g stroke="#454a42" opacity=".46">
+      <path d="M257 118 l13 18 -7 19 18 15 -9 27 17 19" stroke-width="1.25"/>
+      <path d="M267 153 l-19 6 -11 17" stroke-width=".9"/>
+      <path d="M278 170 l21 -8 13 5" stroke-width=".85"/>
+      <path d="M581 411 l-11 15 8 13 -17 14 5 23 -19 20" stroke-width="1.15"/>
+      <path d="M568 451 l-18 -3 -13 8" stroke-width=".8"/>
+      <path d="M82 660 l15 -18 -6 -16 19 -11" stroke-width="1"/>
+    </g>
+    <g stroke="#e6e3d3" opacity=".28" transform="translate(1.4 1.2)">
+      <path d="M257 118 l13 18 -7 19 18 15 -9 27 17 19" stroke-width="1"/>
+      <path d="M581 411 l-11 15 8 13 -17 14 5 23 -19 20" stroke-width=".9"/>
+    </g>
+
+    <!-- chair, shoe and school-bag scuffs -->
+    <g stroke="#343831" opacity=".23">
+      <path d="M66 286 q61 -26 116 5" stroke-width="5"/>
+      <path d="M71 295 q47 -18 89 1" stroke-width="1.8"/>
+      <path d="M461 612 q52 -29 104 -4" stroke-width="3.2"/>
+      <path d="M448 621 q71 -27 128 -4" stroke-width="1.3"/>
+      <path d="M632 196 q28 19 70 8" stroke-width="4"/>
+      <path d="M8 463 q19 -14 43 -8" stroke-width="2.4"/>
+    </g>
+
+    <!-- dry scratches catching the older coat underneath -->
+    <g stroke="#e9e4cf" opacity=".48">
+      <path d="M146 51 l72 -11" stroke-width="2"/>
+      <path d="M151 58 l45 -7" stroke-width=".9"/>
+      <path d="M392 279 l91 16" stroke-width="1.3"/>
+      <path d="M387 284 l57 10" stroke-width=".7"/>
+      <path d="M202 552 l58 -16" stroke-width="2.5"/>
+      <path d="M211 558 l37 -11" stroke-width=".8"/>
+      <path d="M646 690 l57 -13" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <!-- small chips where the current paint has lifted -->
+  <g opacity=".42">
+    <path d="M330 344 l8 -7 15 3 5 9 -9 6 -14 -2z" fill="#74796e"/>
+    <path d="M334 343 l6 -4 11 2 3 5 -8 3 -10 -1z" fill="#c9c5b2" opacity=".55"/>
+    <path d="M47 158 l5 -5 9 1 3 7 -6 5 -9 -2z" fill="#6f756b"/>
+    <path d="M684 310 l7 -4 10 4 -2 8 -11 2 -6 -5z" fill="#74796e"/>
+    <path d="M514 61 l4 -3 6 2 1 5 -5 3 -6 -2z" fill="#777c71"/>
+    <path d="M174 671 l9 -6 13 4 1 8 -11 5 -10 -3z" fill="#6f746a"/>
+  </g>
+
+  <!-- pinholes and old fixing marks -->
+  <g fill="#353a33" opacity=".35">
+    <circle cx="216" cy="230" r="1.8"/>
+    <circle cx="486" cy="129" r="1.2"/>
+    <circle cx="611" cy="558" r="1.6"/>
+    <circle cx="121" cy="446" r="1.1"/>
+    <circle cx="369" cy="677" r="1.4"/>
+  </g>
+  <g fill="#eeead9" opacity=".28">
+    <circle cx="217" cy="231" r="1.3"/>
+    <circle cx="612" cy="559" r="1.1"/>
+  </g>
+
+  <!-- worn islands where years of repainting show through -->
+  <g opacity=".17">
+    <path d="M37 378 c28 -16 72 -15 104 -3 18 7 41 3 57 -4 -8 17 -24 26 -48 29 -43 5 -82 1 -113 -22z" fill="#d8d3bd"/>
+    <path d="M39 382 c33 13 76 15 111 9 18 -3 31 -8 48 -20 -9 20 -27 32 -50 36 -45 8 -87 0 -109 -25z" fill="#60665c" opacity=".38"/>
+    <path d="M476 252 c21 -11 52 -10 76 -2 15 5 35 2 47 -3 -7 12 -19 19 -37 21 -34 4 -64 1 -86 -16z" fill="#d8d3bd"/>
+    <path d="M479 256 c23 8 52 10 79 6 14 -2 27 -7 41 -15 -8 15 -20 24 -39 27 -34 5 -64 -1 -81 -18z" fill="#5e645a" opacity=".34"/>
+  </g>
+</svg>
