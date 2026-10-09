@@ -1,6 +1,7 @@
 FROM nginx:1.27-alpine
 
 COPY index.html /usr/share/nginx/html/index.html
+COPY puck /usr/share/nginx/html/puck
 COPY assets /usr/share/nginx/html/assets
 COPY assets/favicon.ico /usr/share/nginx/html/favicon.ico
 COPY nginx.conf /etc/nginx/conf.d/default.conf
